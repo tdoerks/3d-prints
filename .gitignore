@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.stl
+*.3mf
+*.png
+!renders/*.png
+*.egg-info/
+dist/
+build/
+.venv/
